@@ -1,0 +1,25 @@
+.cont_h1{
+    text-align: center;
+
+}
+.container-fluid{
+    margin-top: 35px;
+}
+.row{
+    margin-top: 20px;
+}
+.card-link{
+    text-decoration: none;
+    color: blue;
+}
+.card-link:hover{
+    text-decoration: none;
+    color:red;
+}
+video{
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+h2{
+    margin-top: 20px;
+}
